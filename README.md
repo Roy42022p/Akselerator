@@ -1,1 +1,2 @@
 # Akselerator
+Бот крутой!
